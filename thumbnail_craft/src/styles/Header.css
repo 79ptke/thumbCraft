@@ -1,0 +1,38 @@
+.header {
+    width: 100%; 
+    border-bottom: 0.1rem solid #aaaaaa;
+}
+
+.header .wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    /* max-width: 128rem; */
+    width: 100%;
+    height: 100%;
+    margin: 0 auto;
+    padding: 1rem 2rem;
+    box-sizing: border-box;
+}
+
+.header .logo {
+    width: 11rem;
+}
+
+.header .resetBtn,
+.header .downloadBtn {
+    margin-left: 0.8rem;
+    padding: 1rem 1.6rem;
+    border-radius: 0.4rem;
+    background: #3bd287;
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #fff;
+}
+.header .resetBtn {
+    background: #565656;
+}
+.header .downloadBtn .imgIcon {
+    width: 1.2rem;
+    margin-right: 0.8rem;
+}
