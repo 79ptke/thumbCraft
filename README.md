@@ -1,10 +1,10 @@
 # thumbCraft 🖼
 - 썸네일을 만들어주는 웹사이트입니다. 💻️ pc에서만 가능합니다!
 - 모바일 버전은 오픈 중입니다. 기다려주세요.
-- [🌐 thumbCraft 웹사이트로 바로가기](https://enchanting-bublanina-7e9b04.netlify.app/)
+- [🌐 thumbCraft 웹사이트로 바로가기](https://stupendous-caramel-85564d.netlify.app/)
 <br>
 
-![카페맵 화면 이미지](./readme_img/bg.png)
+![thumbCraft 화면 이미지](./readme_img/bg.png)
 
 <br>
 
@@ -43,3 +43,11 @@
 - 배경 및 텍스트 색상 변경 
 - 이미지 업로드 및 다운로드
 - artboard 초기화
+
+<br>
+
+### ⭐︎ thumbCraft로 만든 썸네일 이미지 ⭐︎
+<div style="display:flex;">
+  <img src="./readme_img/thumb01.png" alt="thumbCraft 썸네일 이미지" width="300" height="300">
+  <img src="./readme_img/thumb02.png" alt="thumbCraft 썸네일 이미지" width="500" height="300">
+</div>
