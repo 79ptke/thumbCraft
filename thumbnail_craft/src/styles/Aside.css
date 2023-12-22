@@ -25,7 +25,7 @@
     padding: 0.8rem 1.2rem;
     border-top: 0.1rem solid #aaaaaa;
     border-bottom: 0.1rem solid #aaaaaa;
-    background: #dde8e0;
+    background: #dfdff7;
     font-size: 1.4rem;
     font-weight: bold;
 }
@@ -137,7 +137,7 @@
 
 .funcArea .fontStyle.active {
     border-radius: 0.4rem;
-    background: #dde8e0;
+    background: #dfdff7;
 }
 
 .funcArea .fontStyle img {
@@ -272,11 +272,11 @@
     position: relative;
     width: 100%;
     padding: 1rem;
-    border: 0.1rem solid #3bd287;
+    border: 0.1rem solid #403dd1;
     border-radius: 0.8rem;
     box-sizing: border-box;
     font-weight: bold;
-    color: #3bd287;
+    color: #403dd1;
 }
 .funcArea .uploadBtnWrap img {
     width: 1.2rem;

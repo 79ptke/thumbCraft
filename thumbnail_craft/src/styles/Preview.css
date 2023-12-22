@@ -23,7 +23,7 @@
 
 .asidePannelArea .asidePannelWrap::-webkit-scrollbar-thumb {
     height: 30%;
-    background: #e7efe8; 
+    background: #e7e9f3; 
     border-radius: 11rem;
 }
 
@@ -141,6 +141,9 @@
     transform: translate(-50%, -50%);
     width: fit-content;
 }
+.styleCircle .txtWrap .titleSubTextWrap{
+    width: 100%;
+}
 .txtWrap .titleSubTextWrap.alignLeft {
     left: 0;
     transform: translate(0, -50%);
@@ -199,6 +202,10 @@
 .txtWrap .alignRight {
     margin: 1rem 0 0;
     text-align: right;
+}
+
+.txtWrap .alignRight h3 {
+    width: 100%;
 }
 
 .txtWrap p.alignRight {
